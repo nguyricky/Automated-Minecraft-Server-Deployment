@@ -1,5 +1,5 @@
 
-# Automated Minecraft Server Deployment
+# AutomatedMC
 
 A comprehensive infrastructure-as-code approach enables the seamless deployment of a Minecraft server with complete automation. Terraform is employed for provisioning and deployment of the server instance, while the server automation is achieved through a refined shell script, ensuring a fully automated setup.
 
