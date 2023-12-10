@@ -118,9 +118,3 @@ To proceed with the deployment, please follow the instructions outlined below.
         ./setup.sh
 
 Once finished the Minecraft server may take approximately 3-5 minutes to become fully operational. However, the actual time required for deployment may vary.
-
-## Collaborators
-
-<a href="https://github.com/nguyricky/keebtype/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nguyricky/keebtype" />
-</a>
